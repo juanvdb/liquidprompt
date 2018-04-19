@@ -53,7 +53,7 @@ Here is an overview of what Liquid Prompt is capable of displaying:
   and blue (or other unique colors) if connected via SSH
 * a green colon if the user has write permissions in the current directory and
   a red one if not
-* the current directory in bold, shortened if it takes too much space while always
+* the current directory in white on blue, shortened if it takes too much space while always
   preserving the first two directory names
 * the current Python virtual environment
 * an up arrow if an HTTP proxy is in use
